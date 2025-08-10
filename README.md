@@ -79,7 +79,7 @@ Using all the data you have input and processed in the preparation, we can now s
 The adjusting you can make:
 
 1. loopTime: you can make it larger to create a better result, but a larger number means a longer time to calculate. We suggest setting it between 500-3000.
-2. gnerationNum: quite similar to loopTime, you can make the result better by making this number larger, but it requires more time. We suggest setting it between 10-30.
+2. generationNum: quite similar to loopTime, you can make the result better by making this number larger, but it requires more time. We suggest setting it between 10-30.
 
 If you are familiar with genetic algorithms, then you can also change the following parameters:
 
